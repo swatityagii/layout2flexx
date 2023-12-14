@@ -138,8 +138,13 @@ img {
     font-size: 36px;
     opacity: 0.85;
   }
-  .loremsection3,
   .copyright {
+    font-size: 27px;
+    opacity: 0.8;
+  }
+  .loremsection3{
+    margin-left: 11px;
+    margin-right: 11px; 
     font-size: 27px;
     opacity: 0.8;
   }
@@ -155,9 +160,10 @@ img {
   }
   .buttons {
     border-radius: 8px;
+    font-size: 25px;
   }
 }
-@media only screen and (min-width: 1440px) and (max-width: 1800px) {
+@media only screen and (min-width: 1441px) and (max-width: 1800px) {
   .layout {
     font-size: 22px;
   }
@@ -194,8 +200,13 @@ img {
     font-size: 28px;
     opacity: 0.85;
   }
-  .loremsection3,
   .copyright {
+    font-size: 19px;
+    opacity: 0.8;
+  }
+  .loremsection3{
+    margin-left: 6px;
+    margin-right: 6px;
     font-size: 19px;
     opacity: 0.8;
   }
@@ -208,6 +219,7 @@ img {
   }
   .buttons {
     border-radius: 5px;
+    font-size: 19px;
   }
   .info_button {
     padding: 13px 16px;
@@ -216,7 +228,7 @@ img {
     padding: 13px 16px;
   }
 }
-@media only screen and (min-width: 1023px) and (max-width: 1439px) {
+@media only screen and (min-width: 1024px) and (max-width: 1440px) {
   .layout {
     font-size: 17px;
   }
@@ -271,8 +283,11 @@ img {
   .buy_button {
     padding: 10px 13px;
   }
+  .buttons{
+    font-size: 15px;
+    }
 }
-@media only screen and (min-width: 771px) and (max-width: 1022px) {
+@media only screen and (min-width: 771px) and (max-width: 1023px) {
   .layout {
     font-size: 16px;
   }
@@ -343,8 +358,10 @@ img {
     font-size: 14px;
   }
   .loremsection3 {
-    padding-left: 27px;
-    padding-right: 27px;
+    padding-left: 29px;
+    padding-right: 29px;
+    font-size: 14px;
+    opacity: 0.8;
   }
   .heading {
     font-size: 40px;
@@ -376,10 +393,6 @@ img {
   .feature_label {
     font-size: 23px;
     opacity: 0.85;
-  }
-  .loremsection3 {
-    font-size: 14px;
-    opacity: 0.8;
   }
   .hr2 {
     margin-top: 4vh;
