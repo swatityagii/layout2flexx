@@ -139,9 +139,9 @@ img {
     font-size: 27px;
     opacity: 0.8;
   }
-  .loremsection3{
+  .loremsection3 {
     margin-left: 11px;
-    margin-right: 11px; 
+    margin-right: 11px;
     font-size: 27px;
     opacity: 0.8;
   }
@@ -208,7 +208,7 @@ img {
     font-size: 19px;
     opacity: 0.8;
   }
-  .loremsection3{
+  .loremsection3 {
     margin-left: 6px;
     margin-right: 6px;
     font-size: 19px;
@@ -256,7 +256,7 @@ img {
   }
   .action_button {
     margin-top: 1.5vw;
-    padding: 8px 9px; 
+    padding: 8px 9px;
   }
   .section1 {
     padding: 46px 50px;
@@ -274,9 +274,9 @@ img {
     font-size: 14px;
     opacity: 0.8;
   }
-  .loremsection3{
+  .loremsection3 {
     margin-left: 10.6px;
-    margin-right: 10.6px; 
+    margin-right: 10.6px;
     font-size: 14px;
     opacity: 0.8;
   }
@@ -288,14 +288,14 @@ img {
     padding-bottom: 8vh;
   }
   .info_button {
-    padding: 8px 9px; 
+    padding: 8px 9px;
   }
   .buy_button {
-    padding: 8px 9px; 
+    padding: 8px 9px;
   }
-  .buttons{
+  .buttons {
     font-size: 15px;
-    }
+  }
 }
 @media only screen and (min-width: 771px) and (max-width: 1022px) {
   .layout {
@@ -325,7 +325,7 @@ img {
   }
   .section1 {
     padding: 18px 26px;
-    margin-bottom: 22px
+    margin-bottom: 22px;
   }
   .latest_features {
     font-size: 21.5px;
@@ -508,7 +508,7 @@ img {
   .main {
     margin-top: 30px;
   }
-  .navlinks{
+  .navlinks {
     gap: 2.5vw;
   }
 }
