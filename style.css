@@ -9,16 +9,13 @@ body {
   height: 100%;
   width: 100%;
 }
-/* .container {
-  height: 100vh;
-} */
 .navlinks {
   background-color: black;
   color: grey;
   padding-top: 2.1vh;
   padding-bottom: 2.1vh;
   padding-left: 7vw;
-  gap: 0.9vw;
+  gap: 2.5vw;
   display: flex;
   align-items: center;
 }
@@ -34,8 +31,6 @@ img {
   border-radius: 5px;
 }
 .nav {
-  padding-left: 0.5vw;
-  padding-right: 0.5vw;
   opacity: 0.9;
 }
 .layout {
@@ -514,7 +509,7 @@ img {
     margin-top: 30px;
   }
   .navlinks{
-    gap: 2vw;
+    gap: 2.5vw;
   }
 }
 @media only screen and (min-width: 364px) and (max-width: 426px) {
