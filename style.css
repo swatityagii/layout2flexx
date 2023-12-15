@@ -9,9 +9,9 @@ body {
   height: 100%;
   width: 100%;
 }
-.container {
+/* .container {
   height: 100vh;
-}
+} */
 .navlinks {
   background-color: black;
   color: grey;
@@ -126,9 +126,11 @@ img {
   }
   .action_button {
     margin-top: 1.5vw;
+    padding: 13px 20px;
   }
   .section1 {
     padding: 95px 114px;
+    margin-bottom: 54px;
   }
   .latest_features {
     font-size: 35.5px;
@@ -162,8 +164,14 @@ img {
     border-radius: 8px;
     font-size: 25px;
   }
+  .info_button {
+    padding: 13px 20px;
+  }
+  .buy_button {
+    padding: 13px 20px;
+  }
 }
-@media only screen and (min-width: 1441px) and (max-width: 1800px) {
+@media only screen and (min-width: 1405px) and (max-width: 1800px) {
   .layout {
     font-size: 22px;
   }
@@ -187,10 +195,11 @@ img {
   }
   .action_button {
     margin-top: 1.5vw;
-    padding: 13px 16px;
+    padding: 11px 13px;
   }
   .section1 {
     padding: 50px 58px;
+    margin-bottom: 45px;
   }
   .latest_features {
     font-size: 27.5px;
@@ -222,13 +231,13 @@ img {
     font-size: 19px;
   }
   .info_button {
-    padding: 13px 16px;
+    padding: 11px 13px;
   }
   .buy_button {
-    padding: 13px 16px;
+    padding: 11px 13px;
   }
 }
-@media only screen and (min-width: 1024px) and (max-width: 1440px) {
+@media only screen and (min-width: 1023px) and (max-width: 1404px) {
   .layout {
     font-size: 17px;
   }
@@ -252,10 +261,11 @@ img {
   }
   .action_button {
     margin-top: 1.5vw;
-    padding: 10px 13px;
+    padding: 8px 9px; 
   }
   .section1 {
     padding: 46px 50px;
+    margin-bottom: 38px;
   }
   .latest_features {
     font-size: 22.5px;
@@ -265,8 +275,13 @@ img {
     font-size: 23px;
     opacity: 0.85;
   }
-  .loremsection3,
   .copyright {
+    font-size: 14px;
+    opacity: 0.8;
+  }
+  .loremsection3{
+    margin-left: 10.6px;
+    margin-right: 10.6px; 
     font-size: 14px;
     opacity: 0.8;
   }
@@ -278,16 +293,16 @@ img {
     padding-bottom: 8vh;
   }
   .info_button {
-    padding: 10px 13px;
+    padding: 8px 9px; 
   }
   .buy_button {
-    padding: 10px 13px;
+    padding: 8px 9px; 
   }
   .buttons{
     font-size: 15px;
     }
 }
-@media only screen and (min-width: 771px) and (max-width: 1023px) {
+@media only screen and (min-width: 771px) and (max-width: 1022px) {
   .layout {
     font-size: 16px;
   }
@@ -315,6 +330,7 @@ img {
   }
   .section1 {
     padding: 18px 26px;
+    margin-bottom: 22px
   }
   .latest_features {
     font-size: 21.5px;
@@ -384,7 +400,7 @@ img {
   }
   .section1 {
     padding: 16px 22px;
-    margin-bottom: 3vh;
+    margin-bottom: 6px;
   }
   .latest_features {
     font-size: 21.5px;
@@ -452,7 +468,7 @@ img {
   }
   .section1 {
     padding: 4px 21px;
-    margin-bottom: 3vh;
+    margin-bottom: 13px 
   }
   .latest_features {
     font-size: 18.5px;
@@ -494,7 +510,7 @@ img {
   .layout,
   .navlink1,
   .navlink2 {
-    margin-bottom: 6px;
+    margin-bottom: 8px;
   }
   .buy_button {
     padding: 6px 8px;
@@ -531,7 +547,7 @@ img {
   }
   .section1 {
     padding: 3px 19px;
-    margin-bottom: 3vh;
+    margin-bottom: 13px;
   }
   .latest_features {
     font-size: 18.5px;
@@ -575,7 +591,7 @@ img {
   .layout,
   .navlink1,
   .navlink2 {
-    margin-bottom: 6px;
+    margin-bottom: 8px;
   }
   .buy_button {
     padding: 6px 8px;
@@ -612,7 +628,7 @@ img {
   }
   .section1 {
     padding: 2px 17px;
-    margin-bottom: 3vh;
+    margin-bottom: 13px;
   }
   .latest_features {
     font-size: 18.5px;
@@ -656,7 +672,7 @@ img {
   .layout,
   .navlink1,
   .navlink2 {
-    margin-bottom: 6px;
+    margin-bottom: 8px;
   }
   .buy_button {
     padding: 6px 8px;
